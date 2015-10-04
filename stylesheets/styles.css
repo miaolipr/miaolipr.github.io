@@ -281,7 +281,6 @@ q:after {
 small {
   font-size: 75%;
 }
-
 /*
  * Prevents sub and sup affecting line-height in all browsers
  * gist.github.com/413930
@@ -312,6 +311,7 @@ dl,
 menu,
 ol,
 ul {
+  list-style-type:  none;
   margin: 1em 0;
 }
 
